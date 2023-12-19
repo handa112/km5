@@ -1,0 +1,1 @@
+<a href="/news">go back news</a>
